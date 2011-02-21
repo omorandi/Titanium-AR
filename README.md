@@ -16,6 +16,5 @@ I'm planning to turn this into a more manageable JS library when I'll get some t
 For any questions just drop me a mail at olivier.morandi [[[at]]] gmail.com.
 
 You might also want to follow me on Twitter at [http://twitter.com/olivier_morandi](http://twitter.com/olivier_morandi)
-git
 
 This code is released under the MIT license
