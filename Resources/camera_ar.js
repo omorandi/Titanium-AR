@@ -1,5 +1,8 @@
-Titanium.API.debug("now in camera_ar.js");
-
+/*****************************************************************************/
+/* Copyright (c) 2010-2011 Olivier Morandi                                   */
+/* please read file LICENSE in the Titanium-AR root folder.                  */
+/*                                                                           */
+/*****************************************************************************/
 
 var win = Titanium.UI.currentWindow;
 win.backgroundColor = 'black';
