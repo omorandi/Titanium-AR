@@ -45,7 +45,7 @@ var ok = false;
 
 
 // current location (updated by GPS)
-var currlocation = {lat: 0, lng: 0, alt: 0};
+var currLocation = {lat: 0, lng: 0, alt: 0};
 
 var currBearing = 0;        //current bearing of the device
 
